@@ -3,5 +3,5 @@
 </p>
 <ul>
   <li> Climatological Database for the World's Oceans<br>
-    <a href= "https://data.world/cliwoc/ocean-ship-logbooks-1750-1850">[Dowload the dataset]</a></li><a href= "https://data.world/cliwoc/ocean-ship-logbooks-1750-1850">[Source]</a></li>
+    <a href= "https://data.world/cliwoc/ocean-ship-logbooks-1750-1850">[Dowload the dataset]</a><a href= "https://data.world/cliwoc/ocean-ship-logbooks-1750-1850">[Source]</a></li>
 </ul>
